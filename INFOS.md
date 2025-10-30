@@ -4,16 +4,17 @@
 ---
 
 > 2. Trash supports a small but essential variety of commands, with a few modifications to make it more clear:
-    - `dano` --> built-in low performance text editor
-    - `redir` --> resets current directory to initial directory
-    - `crdir` --> create new directory
-    - `rn` --> rename directory
+  > `dano` --> built-in low performance text editor
+  > `redir` --> resets current directory to initial directory
+  > `crdir` --> create new directory
+  > `rn` --> rename directory
 
 > 3. might be implemented in languages other than english in the future, who knows?
-    - **french**
-    - **spanish**
-    - **hindi**
-    - **german**
-    - **portuguese**
-    - **japanese**
-    - **arabic**
+  > **french**
+  > **spanish**
+  > **hindi**
+  > **german**
+  > **portuguese**
+  > **japanese**
+  > **arabic**
+  > **+ request me any other language if needed**
